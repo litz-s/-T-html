@@ -1,4 +1,4 @@
-# WE HELP YOU HTML TASKS
+# WE HELP YOUR HTML TASKS
 - **htmlの課題共有のリポジトリです**
 - **コメントアウトされた内容は勝手に加えた説明です。提出するときは消してネ！**
 
